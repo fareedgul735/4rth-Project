@@ -442,6 +442,7 @@ button:hover {
   width: 50%;
   background-image: url("wine.avif");
   background-size: 100% 100%;
+
 }
 
 .box1 > h1 {
@@ -449,6 +450,7 @@ button:hover {
   font-family: monospace;
   text-shadow: 4px 4px 8px #021526;
   text-align: center;
+  padding: 30px 0px;
 }
 .mid-great-deals > .box2 {
   width: 30%;
@@ -461,6 +463,8 @@ button:hover {
   font-family: monospace;
   text-shadow: 4px 4px 8px #021526;
   text-align: center;
+  padding: 30px 0px;
+
 }
 
 /* mid-cart */
@@ -540,6 +544,8 @@ button:hover {
   font-family: monospace;
   text-shadow: 4px 4px 8px #021526;
   text-align: center;
+  padding: 30px 0px;
+
 }
 .mid-super-deal > .box2 {
   width: 40%;
@@ -552,6 +558,8 @@ button:hover {
   font-family: monospace;
   text-shadow: 4px 4px 8px #021526;
   text-align: center;
+  padding: 30px 0px;
+
 }
 
 /* <!-- mid-fresh-finds --> */
