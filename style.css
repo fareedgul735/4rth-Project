@@ -682,6 +682,7 @@ button:hover {
     justify-content: center;
     align-items: center;
     row-gap: 20px;
+    background-size: 100% 100%;
   }
 
   .overlay > p {
